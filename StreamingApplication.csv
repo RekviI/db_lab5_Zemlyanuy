@@ -1,0 +1,40 @@
+User_ID,Session_ID,Device_ID,Video_ID,Duration_Watched (minutes),Genre,Age,Gender,Subscription_Status,Device_Type
+eb4f9229-74df-45f6-baac-cf19241b8b30,cb2142a7-0750-49ed-b8ac-a975fe1ff69a,232,11,90.04452533,Sci-Fi,56,Female,Premium,Smartphone
+661d4b59-4328-410a-901c-1e3b4c40c334,3bc0a662-b353-4015-8b0c-55ceb510d13a,549,85,68.97347929,Comedy,52,Male,Premium,Desktop
+dd3fe9e9-ea82-4891-ab93-8a47c80e3251,bd545b4a-9f54-4e87-b9f8-15ae20b44f22,844,50,42.51134326,Comedy,14,Female,Premium,Tablet
+a1b3365b-1d00-4ddf-bc43-02fc9c10c680,0441086d-c59e-478d-a496-5c5b995ecfdb,201,38,53.31666005,Documentary,36,Male,Premium,Laptop
+338d3f91-5f1c-4590-8803-324901826406,0295f01d-7f15-4799-856c-90c688697ef8,700,31,69.43778589,Action,31,Male,Premium,Laptop
+076b03f1-fd5b-4abe-b22e-cf3b4fdad381,ae95a7b7-6502-4da8-a6e5-9717b67c754a,514,83,41.81091189,Comedy,53,Male,Premium,Laptop
+91d4aa91-da98-4ced-851d-c5c0194c63c4,550c6267-4cb4-431f-b868-c834f468f9b7,1,85,63.97909893,Action,10,Female,Free,Laptop
+e707ea19-8d7e-476e-9bf8-c379f01f79da,51522575-8d6c-4489-bb07-ad8391d484e1,73,63,78.33836562,Comedy,28,Female,Free,Desktop
+063c3c57-ea7e-42d2-ba7c-f0d35896e2da,7e11bec1-7e50-4963-ab8d-f480c3634efc,900,37,16.2610326,Drama,41,Male,Premium,Tablet
+b82ccd39-0040-4be9-a969-78b40d4c0c97,32b6968e-3da0-4663-9c47-66cf3ea2cad7,581,71,29.37248654,Drama,40,Male,Free,Smartphone
+fe6d5e8e-322f-479c-8589-89b6ad16d3c4,c32ae59c-dd5e-4e73-b110-c1eeb3ebce49,469,31,86.40363253,Drama,56,Male,Premium,Smart TV
+06d62f0f-0a02-4fdf-9265-4929e04195a6,99eca3aa-122f-4b0b-860f-17f841855e85,897,29,35.29466034,Documentary,58,Female,Free,Smartphone
+9889854c-128c-4df5-93ca-f1a158a72590,e9830ba0-7745-4037-b235-659073d95a38,11,68,82.22350395,Thriller,66,Male,Free,Desktop
+8e1009be-0392-42dc-a155-44357c10aa43,ace0bf96-8a87-476f-a9d5-987861c1f856,121,53,11.54670816,Comedy,57,Male,Free,Tablet
+383b47f5-10f9-48b3-bf77-314251e75a11,37d6ffe7-2829-416b-ad71-115500f0e43d,229,37,117.6401047,Sci-Fi,43,Female,Free,Smartphone
+b2692d21-6164-4fa8-bf2a-72537380e46a,19ba4998-3743-45d3-91ad-98c5920639dd,450,40,75.25512391,Thriller,67,Male,Free,Laptop
+26aa455e-a7f0-4f85-b7e5-e85af18bca3a,0aa35154-8fe7-4d37-ba5e-37de65dddff2,126,90,19.97318177,Sci-Fi,46,Male,Free,Laptop
+58cc2409-e8d8-4221-b313-125b277741aa,076c5024-6029-439c-979b-eb3fa8b0adde,687,8,47.91976143,Sci-Fi,27,Female,Premium,Smartphone
+aa08b476-c42a-4323-8357-a027caaaaca2,0008a39c-329a-43a5-8de6-98e33e5326d9,360,37,27.72695403,Comedy,62,Male,Premium,Tablet
+91da06f5-8529-47d0-8317-fd7a79dae826,d856a070-498d-4b6f-8899-1c866a36701f,301,21,103.0037381,Documentary,42,Female,Premium,Smart TV
+d1c113dc-cee2-4c56-ae62-ab274b4fd866,79dd4a4b-585b-4013-b7c8-8afd9f29a3e5,419,39,101.4767759,Action,24,Female,Free,Smartphone
+b2b81237-52e5-400a-a5f8-2bdb77b0d75e,fbbc70a4-fba3-41a5-ae23-5dbd5fdc5524,910,55,107.9925775,Drama,64,Male,Premium,Tablet
+08787fd5-e84f-4008-b57c-00e4a1099f69,4ead1a5b-7f4b-4fbc-9e3b-85cfe6dce702,222,47,75.714735,Drama,68,Female,Free,Laptop
+c60fef9f-b84f-43fd-be6f-1b8b63a016d7,ba275c7d-5da0-4b39-a05c-c4541bcd174e,690,53,17.11980612,Documentary,56,Female,Free,Tablet
+bcbcf395-228a-49c2-bcfc-ec544ce5ddf4,78f60436-6d99-42dc-955b-34e39bfc10dc,320,90,84.00882766,Drama,66,Male,Premium,Smartphone
+f61990bf-2466-439e-bf98-5ee3af5ecfc5,3f188b06-71e8-4cb6-be1b-d638dfe2fff4,792,46,7.118887891,Documentary,41,Female,Free,Smart TV
+20c0b7a3-2051-4b7d-9c42-fd924069bbc6,becf0f2f-fbc7-4be7-89f6-7f4f9552a700,132,13,70.18055507,Documentary,60,Male,Premium,Laptop
+0fddc85a-b03e-48e5-a283-f35416ed5ddf,437be62f-fe75-4dc3-827a-de74737f47b2,975,17,62.03761541,Drama,37,Female,Free,Laptop
+9fb0fd9e-5aae-41e7-8d1b-03fa59bbfc27,405a4c0b-ebf0-4683-b271-702d55973f16,566,24,55.35621468,Action,58,Male,Premium,Desktop
+8b7c6411-841a-440e-9d83-0e27511bb2c5,b4af1bfa-5926-48fc-9cba-39a76e6a6847,591,29,101.671632,Comedy,45,Female,Premium,Laptop
+3295f854-c5df-4c21-bb76-82be76d395f5,bacb7f4a-6e0c-420c-9ead-cf0bc5f3a126,224,57,26.81577812,Comedy,26,Male,Free,Tablet
+06135006-df65-42b3-aa74-4551dda9d970,c0b32771-6c3f-40c7-82a7-3c74858a4716,440,93,14.4282295,Thriller,18,Male,Free,Tablet
+420c3dcd-efaa-4a65-bef9-ae5b4bda4e7a,458a8b64-fdae-4dcd-a6a2-f06a2a7b9f72,791,88,91.38085105,Drama,15,Male,Premium,Laptop
+8994f7ae-93ab-4bf4-b356-59388c50c21a,b4340fb6-3de4-471f-b34a-d1c39e0af909,362,100,101.8931322,Action,25,Male,Free,Desktop
+dc262390-19fe-4bc9-bc28-6f92ca28281b,3210fa04-e92c-4bd5-b6a2-73e943a6631e,18,18,98.25151455,Comedy,68,Male,Premium,Smartphone
+7312a761-7753-4ccd-9298-8630f36cbcff,a8767ccf-93b4-4450-8e51-a2511cf1c82b,657,24,5.80790045,Drama,43,Female,Premium,Laptop
+407911ee-f9a5-4fe4-a0a5-2a49b3cd8d5f,9779c5db-bf7b-4b5d-a76f-70a60f20b266,167,49,97.92999356,Thriller,15,Male,Free,Smartphone
+b90a0d55-0762-4f2e-aa32-8ffdf3692f50,da77e08f-b6c0-4c4a-8bee-bc8366635c57,728,92,71.52714525,Documentary,66,Female,Premium,Smart TV
+3ef39223-d8d2-4677-b80b-4b27aa9bee8d,fef96555-eaf4-4240-bf80-234b18949297,411,82,84.36518312,Thriller,32,Female,Premium,Laptop
